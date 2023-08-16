@@ -1,0 +1,26 @@
+p1 {
+    width: 50%;
+    font-size: 30px;
+    text-align: left;
+    text-align-last: left;
+}
+
+.paragaph-one {
+    
+}
+
+.paragaph-two {
+    
+}
+
+.paragaph-three {
+    
+}
+
+.info-grid {
+    margin-top: 50px;
+    display: inline-grid;
+    grid-template-columns: 1fr ;
+    align-items: center;
+    grid-gap: 10px;
+  }
