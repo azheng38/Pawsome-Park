@@ -1,20 +1,12 @@
+.home-welcome {
+    background-color: rgba(255, 189, 114, 0.785);
+}
+
 p1 {
     width: 50%;
     font-size: 30px;
     text-align: left;
     text-align-last: left;
-}
-
-.paragaph-one {
-    
-}
-
-.paragaph-two {
-    
-}
-
-.paragaph-three {
-    
 }
 
 .info-grid {
@@ -23,4 +15,21 @@ p1 {
     grid-template-columns: 1fr ;
     align-items: center;
     grid-gap: 10px;
-  }
+}
+
+.pawsome-park {
+    background-color: rgba(136, 255, 127, 0.867);
+    color:rgba(255, 153, 0, 0.859);
+}
+
+h1 {
+    top: 40px;
+    margin-bottom: 20px;
+    border-radius: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 80px;
+    border-radius: 0px;
+}
