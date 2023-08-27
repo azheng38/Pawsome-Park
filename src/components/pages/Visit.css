@@ -1,0 +1,15 @@
+.tickets {
+    padding: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 0 px;
+    background-color:antiquewhite;
+    font-size: 8vh;
+}
+
+.arrival-information {
+    font-size: 4vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
