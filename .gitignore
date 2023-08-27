@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# making sure the email password is not in github
+.env
+
 # dependencies
 /node_modules
 /.pnp

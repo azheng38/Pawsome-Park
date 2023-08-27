@@ -1,0 +1,6 @@
+.garden-container {
+    display: grid;
+    grid-template-columns: repeat(1);
+    gap: 20px;
+    background-color: rgb(78, 0, 77);
+}

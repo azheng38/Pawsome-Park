@@ -2,13 +2,6 @@
     background-color: rgba(255, 189, 114, 0.785);
 }
 
-p1 {
-    width: 50%;
-    font-size: 30px;
-    text-align: left;
-    text-align-last: left;
-}
-
 .info-grid {
     margin-top: 50px;
     display: inline-grid;
