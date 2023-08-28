@@ -6,4 +6,4 @@ I learnt how routers work, how to create components (buttons, navigation bar, ca
 In general, this project helped me grasp the extent of what React can create. Thank you for checking it out!
 
 Youtube Video of Website Demo
-<video src='https://youtu.be/hiLJf-iNBcA' width=180/>
+https://youtu.be/hiLJf-iNBcA
